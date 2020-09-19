@@ -1,4 +1,4 @@
-Assignment Week 2 - Marie Engel
+
 
 makeCacheMatrix <- function(x = matrix()) {  
   j <- NULL
